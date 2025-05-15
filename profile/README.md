@@ -1,6 +1,6 @@
-## quickApps · Build What Matters
+## quiKaps · Build What Matters
 
-**quickApps** is a software development agency focused on building high-quality websites and custom software systems that solve real business problems.
+**quiKaps** is a software development agency focused on building high-quality websites and custom software systems that solve real business problems.
 
 We partner with teams to design, build, and ship scalable, maintainable software — fast.
 
@@ -59,10 +59,10 @@ We prioritize:
 
 Want to collaborate? Let's build what matters.
 
-- **Email**: [team@quickapps.dev](mailto:team@quickapps.dev)  
-- **Website**: [https://quickapps.dev](https://quickapps.dev)  
-- **LinkedIn**: [linkedin.com/company/quickapps](https://linkedin.com/company/quickapps)
+- **Email**: [team@quiKaps.dev](mailto:team@quiKaps.dev)  
+- **Website**: [https://quiKaps.dev](https://quiKaps.dev)  
+- **LinkedIn**: [linkedin.com/company/quiKaps](https://linkedin.com/company/quiKaps)
 
 ---
 
-> **quickApps** – Build What Matters.
+> **quiKaps** – Build What Matters.
